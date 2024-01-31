@@ -23,5 +23,12 @@ namespace EjercicioAsignado.Servicios
         /// </summary>
         /// <param name="listaAntigua"></param>
         public void darBajaCliente(List<ClienteDto> listaAntigua);
+
+        /// <summary>
+        /// Método para mostrar la lista de clientes
+        /// @author JRT - 31/01/2024
+        /// </summary>
+        /// <param name="listaAntigua"></param>
+        public void mostrarListaClientes(List<ClienteDto> listaAntigua);
     }
 }
