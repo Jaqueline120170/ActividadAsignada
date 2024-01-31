@@ -32,9 +32,11 @@ namespace EjercicioAsignado.Servicios
             {
                 if (cliente.IdCliente.Equals(buscarId))
                 {
+                    cliente.FechaBaja= DateTime.Now.ToString();
                     clienteABorrar = cliente;
-
+                    
                 }
+                Console.WriteLine("Fecha y hora de baja del cliente: " + cliente.FechaBaja);
             }
             listaAntigua.Remove(clienteABorrar);
         }
@@ -78,14 +80,21 @@ namespace EjercicioAsignado.Servicios
             Console.WriteLine("Introduzca la fecha actual: ");
             fechaAlta=Console.ReadLine();
             Console.WriteLine("Introduzca fecha de baja");
-            fechaBaja=Console.ReadLine();
-           
+            fechaBaja = Console.ReadLine();
+
 
             return new ClienteDto(idCliente, nombreCliente, apellidoCliente,nombreId, edad, telefonoCliente, fechaAlta, fechaBaja);
            
         }
 
-
+        public void mostrarListaClientes(List<ClienteDto>listaAntigua)
+        {
+            Console.WriteLine("Lista de clientes:");
+            foreach (ClienteDto cliente in listaAntigua)
+            {
+                Console.WriteLine(cliente.ToString());
+            }
+        }
 
     }
 }

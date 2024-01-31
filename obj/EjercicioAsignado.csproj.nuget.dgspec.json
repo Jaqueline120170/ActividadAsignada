@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Profesor\\source\\repos\\EjercicioAsignado\\EjercicioAsignado.csproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\Jaqueline120170\\ActividadAsignada\\EjercicioAsignado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Profesor\\source\\repos\\EjercicioAsignado\\EjercicioAsignado.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\Jaqueline120170\\ActividadAsignada\\EjercicioAsignado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Profesor\\source\\repos\\EjercicioAsignado\\EjercicioAsignado.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Jaqueline120170\\ActividadAsignada\\EjercicioAsignado.csproj",
         "projectName": "EjercicioAsignado",
-        "projectPath": "C:\\Users\\Profesor\\source\\repos\\EjercicioAsignado\\EjercicioAsignado.csproj",
-        "packagesPath": "C:\\Users\\Profesor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Profesor\\source\\repos\\EjercicioAsignado\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Jaqueline120170\\ActividadAsignada\\EjercicioAsignado.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Jaqueline120170\\ActividadAsignada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Profesor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -47,10 +47,7 @@ namespace EjercicioAsignado.Controladores
                         break;
                     case 3:
                         Console.WriteLine("Mostrar lista clientes");
-                        foreach (ClienteDto cliente in listaClientes)
-                        {
-                            Console.WriteLine(cliente.ToString());
-                        }
+                        oi.mostrarListaClientes(listaClientes);
                         break;
                     default:
                         Console.WriteLine("[INFO] - La opcion seleccionada no coincide con ninguna");
