@@ -27,3 +27,17 @@ C:\Users\Usuario\Source\Repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0
 C:\Users\Usuario\Source\Repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.pdb
 C:\Users\Usuario\Source\Repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.genruntimeconfig.cache
 C:\Users\Usuario\Source\Repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\ref\EjercicioAsignado.dll
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\bin\Debug\net6.0\EjercicioAsignado.exe
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\bin\Debug\net6.0\EjercicioAsignado.deps.json
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\bin\Debug\net6.0\EjercicioAsignado.runtimeconfig.json
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\bin\Debug\net6.0\EjercicioAsignado.dll
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\bin\Debug\net6.0\EjercicioAsignado.pdb
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.dll
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\refint\EjercicioAsignado.dll
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.pdb
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\EjercicioAsignado.genruntimeconfig.cache
+C:\Users\Profesor\source\repos\Jaqueline120170\ActividadAsignada\obj\Debug\net6.0\ref\EjercicioAsignado.dll

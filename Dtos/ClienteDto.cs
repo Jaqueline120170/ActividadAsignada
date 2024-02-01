@@ -51,13 +51,11 @@ namespace EjercicioAsignado.Dtos
         override
         public string ToString()
         {
-            string clienteString = "id:" + this.idCliente +
-                "Nombre:" + this.nombreCliente +
-                "Apellidos:" + this.apellidoCliente +
-                "Nombre id:" + this.nombreId +
-                "Edad de cliente:" + this.edad +
-                "Tlf:" + this.telefonoCliente +
-                "Fecha de alta:" + this.fechaAlta +
+            string clienteString = "id:"+ this.idCliente + " "+ "Nombre:" + this.nombreCliente + " "+ "Apellidos:" + this.apellidoCliente + " " +
+                "Nombre id:" + this.nombreId + " "+
+                "Edad de cliente:" + this.edad + " " +
+                "Tlf:" + this.telefonoCliente + " " +
+                "Fecha de alta:" + this.fechaAlta + " " +
                 "Fecha baja:" + this.fechaBaja;
                
 
