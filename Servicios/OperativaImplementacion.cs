@@ -38,7 +38,7 @@ namespace EjercicioAsignado.Servicios
                 }
                 Console.WriteLine("Fecha y hora de baja del cliente: " + cliente.FechaBaja);
             }
-            listaAntigua.Remove(clienteABorrar);
+            
         }
 
         public void darAltaCliente(List<ClienteDto> listaAntigua)
@@ -62,7 +62,7 @@ namespace EjercicioAsignado.Servicios
             int edad;
             int telefonoCliente;
             string fechaAlta;
-            string fechaBaja;
+            string fechaBaja="------------";
             string nombreId;
            
 
@@ -80,7 +80,7 @@ namespace EjercicioAsignado.Servicios
             Console.WriteLine("Introduzca la fecha actual: ");
             fechaAlta=Console.ReadLine();
             Console.WriteLine("Introduzca fecha de baja");
-            fechaBaja = Console.ReadLine();
+            
 
 
             return new ClienteDto(idCliente, nombreCliente, apellidoCliente,nombreId, edad, telefonoCliente, fechaAlta, fechaBaja);

@@ -16,7 +16,7 @@ namespace EjercicioAsignado.Dtos
         int edad ;
         int telefonoCliente ;
         string fechaAlta ;
-        string fechaBaja ;
+        string fechaBaja="--------" ;
         
         //GETTERS Y SETTERS
         public int IdCliente { get => idCliente; set => idCliente = value; }
@@ -51,14 +51,14 @@ namespace EjercicioAsignado.Dtos
         override
         public string ToString()
         {
-            string clienteString = "id: " + this.idCliente +
-                "Nombre: " + this.nombreCliente +
-                "Apellidos: " + this.apellidoCliente +
-                "Nombre id: " + this.nombreId +
-                "Edad de cliente: " + this.edad +
-                "Tlf: " + this.telefonoCliente +
-                "Fecha de alta : " + this.fechaAlta +
-                "Fecha baja: " + this.fechaBaja;
+            string clienteString = "id:" + this.idCliente +
+                "Nombre:" + this.nombreCliente +
+                "Apellidos:" + this.apellidoCliente +
+                "Nombre id:" + this.nombreId +
+                "Edad de cliente:" + this.edad +
+                "Tlf:" + this.telefonoCliente +
+                "Fecha de alta:" + this.fechaAlta +
+                "Fecha baja:" + this.fechaBaja;
                
 
             return clienteString;
