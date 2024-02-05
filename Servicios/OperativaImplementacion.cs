@@ -79,7 +79,7 @@ namespace EjercicioAsignado.Servicios
             telefonoCliente=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Introduzca la fecha actual: ");
             fechaAlta=Console.ReadLine();
-            Console.WriteLine("Introduzca fecha de baja");
+            
             
 
 
